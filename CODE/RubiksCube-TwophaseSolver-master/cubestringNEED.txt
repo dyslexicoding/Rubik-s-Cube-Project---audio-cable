@@ -1,0 +1,47 @@
+LLF
+RUF
+BDD
+0- 8
+BDD
+URR
+UFF
+9 -17
+UBL
+BFL
+RUR
+18 - 26
+BFB
+UDR
+FBR
+27- 35
+FDL
+LLL
+UBD
+36- 44
+RDD
+UBF
+URL
+45 - 53
+L', 'L', 'F', 
+'R', 'U', 'F', 
+'B', 'D', 'D', 
+
+'D', 'R', 'F', 
+'D', 'R', 'F', 
+'B', 'U', 'U', 
+
+'L', 'L', 'R', 
+'B', 'F', 'U', 
+'U', 'B', 'R', 
+
+'B', 'R', 'R', 
+'F', 'D', 'B', 
+'B', 'U', 'F', 
+
+'D', 'B', 'U', 
+'L', 'L', 'L', 
+'L', 'D', 'F', 
+
+'L', 'R', 'U', 
+'F', 'B', 'U', 
+'D', 'D', 'R'
